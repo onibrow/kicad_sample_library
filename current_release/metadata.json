@@ -1,0 +1,32 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v2",
+    "name": "PiE Demo KiCad Library",
+    "description": "Demo Library for PiElectrical",
+    "description_full": "KiCad Library for PiElectrical to Demonstrate KiCad PCM Capabilities",
+    "identifier": "com.github.onibrow.kicad-demo-library",
+    "download_url": "https://raw.githubusercontent.com/onibrow/kicad_sample_library/refs/heads/main/current_release/pie_demo_kicad_library.zip",
+    "type": "library",
+    "author": {
+        "name": "A. Sprocket",
+        "contact": {
+            "web": "https://pierobotics.org/"
+        }
+    },
+    "maintainer": {
+        "name": "B. Sprocket",
+        "contact": {
+            "web": "https://pierobotics.org/"
+        }
+    },
+    "license": "CC0-1.0",
+    "resources": {
+        "homepage": "https://github.com/onibrow/kicad_sample_library"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "6.0"
+        }
+    ]
+}
